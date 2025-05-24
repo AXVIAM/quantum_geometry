@@ -1,0 +1,5 @@
+Observed Data vs. QIR Predictions (With Binary Scaling)
+Mass (Solar Masses) | Distance (Units) | Observed Lensing | QIR-Predicted Lensing (Corrected)
+1.20 | 110.00 | 0.0800 | 113.8676
+1.50 | 95.00 | 0.1000 | 113.8676
+1.80 | 130.00 | 0.1200 | 113.8676

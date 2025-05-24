@@ -1,0 +1,7 @@
+Quantum Information Gravity - Refined Cosmic Web Structure Results
+-----------------------------------------------------------
+Smoothing Scale (σ) | Max Density | Min Density | Mean Density
+6 | 0.551332 | 0.445454 | 0.499703
+9 | 0.530263 | 0.462941 | 0.499703
+11 | 0.524494 | 0.468875 | 0.499703
+14 | 0.518515 | 0.472683 | 0.499703

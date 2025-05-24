@@ -1,0 +1,5 @@
+Observed Data vs. QIR Predictions (With Binary Scaling)
+Mass (Solar Masses) | QIR Correction | Observed Entropy | QIR-Predicted Entropy (Corrected)
+10.00 | 0.0100 | 100.5000 | 7.1847
+12.00 | 0.0200 | 144.0000 | 7.2559
+15.00 | 0.0300 | 225.5000 | 7.3270

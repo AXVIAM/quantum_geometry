@@ -1,0 +1,18 @@
+Quantum Information Gravity - NGC 3198 Rotation Curve Comparison
+------------------------------------------------------
+Radius (kpc) | Observed Velocity (km/s) | QIG Velocity (km/s)
+1.02 kpc | 100.50 km/s | 649.35 km/s
+2.04 kpc | 110.30 km/s | 459.16 km/s
+3.06 kpc | 120.10 km/s | 374.90 km/s
+4.08 kpc | 130.00 km/s | 324.68 km/s
+5.10 kpc | 140.20 km/s | 290.40 km/s
+6.12 kpc | 150.40 km/s | 265.10 km/s
+7.14 kpc | 160.30 km/s | 245.43 km/s
+8.16 kpc | 170.20 km/s | 229.58 km/s
+9.18 kpc | 180.00 km/s | 216.45 km/s
+10.20 kpc | 185.30 km/s | 205.34 km/s
+11.22 kpc | 190.50 km/s | 195.79 km/s
+12.24 kpc | 195.00 km/s | 187.45 km/s
+13.26 kpc | 200.20 km/s | 180.10 km/s
+14.28 kpc | 205.00 km/s | 173.55 km/s
+15.30 kpc | 210.10 km/s | 167.66 km/s

@@ -1,0 +1,5 @@
+Observed Data vs. QIR Predictions (With Entropy-Constrained Scaling)
+Mass (Solar Masses) | Distance (Units) | Information Density | Observed Value | QIR-Predicted Value (Corrected)
+10.00 | 110.00 | 0.0400 | 100.5000 | nan
+12.00 | 95.00 | 0.0500 | 144.0000 | nan
+15.00 | 130.00 | 0.0600 | 225.5000 | nan

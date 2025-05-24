@@ -1,0 +1,7 @@
+Quantum Information Gravity - Cosmic Web Comparison Results
+-----------------------------------------------------------
+Smoothing Scale (σ) | Max Density Model 1 | Min Density Model 1 | Mean Density Model 1 | Max Density Model 2 | Min Density Model 2 | Mean Density Model 2
+6 | 0.563046 | 0.448590 | 0.498817 | 0.549051 | 0.441218 | 0.500384
+9 | 0.536088 | 0.467703 | 0.498817 | 0.533664 | 0.456436 | 0.500384
+11 | 0.528538 | 0.471284 | 0.498817 | 0.526264 | 0.462137 | 0.500384
+14 | 0.522198 | 0.475559 | 0.498817 | 0.520282 | 0.469007 | 0.500384

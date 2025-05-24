@@ -1,0 +1,11 @@
+Quantum Information Gravity - Abell 1689 Lensing Results
+------------------------------------------------------
+GR Einstein Radius: 1.500000e-05 arcseconds
+Modified Einstein Radii under QIG:
+  α = 0.00 → θ_E_QIG = 1.500000e-05 arcseconds
+  α = 0.02 → θ_E_QIG = 1.530000e-05 arcseconds
+  α = 0.05 → θ_E_QIG = 1.575000e-05 arcseconds
+  α = 0.08 → θ_E_QIG = 1.620000e-05 arcseconds
+  α = 0.10 → θ_E_QIG = 1.650000e-05 arcseconds
+  α = 0.15 → θ_E_QIG = 1.725000e-05 arcseconds
+  α = 0.20 → θ_E_QIG = 1.800000e-05 arcseconds

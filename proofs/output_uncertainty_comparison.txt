@@ -1,0 +1,5 @@
+Observed Data vs. QIR Predictions
+Position Uncertainty | Information Density | Observed Uncertainty | QIR-Predicted Uncertainty
+0.20 | 0.04 | 5.0000 | 5.0000
+0.15 | 0.05 | 3.0000 | 3.0000
+0.10 | 0.06 | 2.5000 | 1.6667

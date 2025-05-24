@@ -1,0 +1,5 @@
+Observed Data vs. QIR Predictions (With Binary Scaling)
+Position Uncertainty | Information Density | Observed Uncertainty | QIR-Predicted Uncertainty (Corrected)
+0.20 | 0.04 | 5.0000 | 2.8454
+0.15 | 0.05 | 3.0000 | 2.1341
+0.10 | 0.06 | 2.5000 | 1.4227
